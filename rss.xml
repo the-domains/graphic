@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Graphic ]]></title>
-        <description><![CDATA[Graphic ]]></description>
+        <title><![CDATA[All About it...]]></title>
+        <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 03:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 06:50:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/graphic/c2687b6b-235c-4415-bda9-8aa8962d2c96/index.html</link>
             <guid isPermaLink="false">c2687b6b-235c-4415-bda9-8aa8962d2c96</guid>
             <pubDate>Tue, 16 Feb 2016 02:59:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lightroom Journal | Tips and advice straight from the Lightroom team.]]></title>
+            <description><![CDATA[<article><h1>Lightroom Journal | Tips and advice straight from the Lightroom team.</h1><p>Stitched panoramas often have non-rectangular boundaries. There are several ways to handle irregular boundaries. The most common approach is to apply a rectangular crop. This is straightforward, but important image details near the boundary may be lost due to cropping. Another approach is to use Content Aware Fill (in Photoshop) to fill in the transparent areas outside the boundary.</p><img src="http://blogs.adobe.com/lightroomjournal/files/2015/12/LrM-2.1.0-Point-Curve.jpg"></article>]]></description>
+            <link>http://blogs.adobe.com/lightroomjournal/</link>
+            <guid isPermaLink="false">76dd09e7-2672-4528-8092-6327fc9c42da</guid>
+            <pubDate>Tue, 16 Feb 2016 06:48:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scott Kelby's Photoshop Insider - Photoshop & Photography Techniques, News, Books, Reviews & More]]></title>
