@@ -1,4 +1,4 @@
-layout_spectrum: 0.719866
+layout_spectrum: 1
 name: 'Graphic '
 collections:
   - index:
@@ -12,15 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.9681029
 color:
   brandStrength: 0.7328289
-  lightness: 0.2403544
   saturation: 0.6180438
-  rhythmicContrast: 0.8136594
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-typography_spectrum: 0.9681029
+  lightness: 0.2403544
+  rhythmicContrast: 0.8136594
