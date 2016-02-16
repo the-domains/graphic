@@ -1,7 +1,20 @@
-name: 'Graphic '
-favicon: null
+title: All About it...
+cta:
+  version: null
+  bucket: null
+  domain: null
 layout_spectrum: 1
-typography_spectrum: 0.9681029
+favicon: null
+name: 'Graphic '
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -14,28 +27,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: All About it...
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.7328289
+  lightness: 0.5607083
+  saturation: 0.5826307
+  rhythmicContrast: 0.5522766
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7328289
-  lightness: 0.2403544
-  saturation: 0.6180438
-  rhythmicContrast: 0.8136594
-purpose: []
+typography_spectrum: 0.9681029
