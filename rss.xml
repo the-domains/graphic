@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 01:14:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -12,6 +12,13 @@
             <link>http://emo75.500px.com/</link>
             <guid isPermaLink="false">292d544b-7ab7-4784-aace-f57bedc0c1ba</guid>
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Responsive web design in Adobe Muse]]></title>
+            <description><![CDATA[<article><h1>Responsive web design in Adobe Muse</h1><p>Complete the website design and review the use cases for adding breakpoints on invidual pages that are different from the breakpoints on the master page. Learn additional responsive design techniques such as how to hide and display content for optimal display across layouts, scaling text to make it legible on smaller screens, or copying formatting and layout across breakpoints.</p></article>]]></description>
+            <link>https://thegrid.ai/graphic/responsive-web-design-in-adobe-muse-or-adobe-muse-cc-tutorial/index.html</link>
+            <guid isPermaLink="false">bd55cf4b-e604-45b1-a07e-f7dfd0b9b671</guid>
+            <pubDate>Wed, 17 Feb 2016 01:13:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alltop - Top Lightroom News]]></title>
