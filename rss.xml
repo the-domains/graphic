@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 00:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 06:16:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -12,6 +12,13 @@
             <link>http://emo75.500px.com/</link>
             <guid isPermaLink="false">292d544b-7ab7-4784-aace-f57bedc0c1ba</guid>
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fresh]]></title>
+            <description><![CDATA[<article><h1>Fresh</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9160ce600d951a58c30d221aff18c35668d94f19.jpg"></article>]]></description>
+            <link>http://www.emilysoto.com/</link>
+            <guid isPermaLink="false">ef23de78-97ff-42af-a1f7-4163a0c5a7a0</guid>
+            <pubDate>Fri, 19 Feb 2016 06:15:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Artist Feature: Megan Robinson]]></title>
-            <description><![CDATA[<article><h1>Artist Feature: Megan Robinson</h1><p>Megan Robinson: I am currently based in Arizona. I specialize in weddings, portraits and editorial photography. MR: My fascination for photography started the moment I bought my first camera at an antique store for my high school photography class.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f6438dcbaa429f663c0f543087cf5e0b09a6b9d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Artist Feature: Megan Robinson</h1><p>Megan Robinson: I am currently based in Arizona. I specialize in weddings, portraits and editorial photography. MR: My fascination for photography started the moment I bought my first camera at an antique store for my high school photography class.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c52e76aeced23bfd832f36fa5309d90a836baebf.jpg"></article>]]></description>
             <link>https://mastinlabs.com/blog/artist-feature-megan-robinson/</link>
             <guid isPermaLink="false">0181531e-2069-4f3b-afc2-a37ae2a3e790</guid>
             <pubDate>Fri, 19 Feb 2016 00:21:23 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://lightroom.alltop.com/</link>
             <guid isPermaLink="false">ad0f7a11-afe5-4fe1-a97d-26daede849f2</guid>
             <pubDate>Wed, 17 Feb 2016 00:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scott Kelby's Photoshop Insider - Photoshop & Photography Techniques, News, Books, Reviews & More]]></title>
-            <description><![CDATA[<article><h1>Scott Kelby's Photoshop Insider - Photoshop & Photography Techniques, News, Books, Reviews & More</h1><p>IT'S ALL ABOUT PERSPECTIVE It's always a privilege to appear as a guest blogger on Scott's Photoshop Insider Blog. Having a chance to share some of my experiences in photography with Scott's blog readers is always a pleasure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/287eb540b18d24dddcfd03093badf8ac99f95088.jpg"></article>]]></description>
-            <link>http://scottkelby.com/#</link>
-            <guid isPermaLink="false">9ad4a64e-7091-49b0-9720-ffd25e00c0b6</guid>
-            <pubDate>Wed, 17 Feb 2016 00:02:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
