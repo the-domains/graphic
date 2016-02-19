@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 06:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 06:33:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Blog - Alien Skin Software]]></title>
+            <description><![CDATA[<article><h1>Blog - Alien Skin Software</h1><p>Watch this tutorial and learn how to use the bokeh features in Exposure X. This instructional video contains all you need to know to blur like a pro.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b9084fed864b240de66bbfe7d6b2b15f293b61e.png"></article>]]></description>
+            <link>http://www.alienskin.com/blog/</link>
+            <guid isPermaLink="false">4ffd8efe-0647-4901-8512-7e9b267b4fe2</guid>
+            <pubDate>Fri, 19 Feb 2016 06:32:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fresh]]></title>
-            <description><![CDATA[<article><h1>Fresh</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9160ce600d951a58c30d221aff18c35668d94f19.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Fresh</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/438cd34e872a792e0ef6341d7dee575e80b2be55.jpg"></article>]]></description>
             <link>http://www.emilysoto.com/</link>
             <guid isPermaLink="false">ef23de78-97ff-42af-a1f7-4163a0c5a7a0</guid>
             <pubDate>Fri, 19 Feb 2016 06:15:11 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://flip.it/-zmVg</link>
             <guid isPermaLink="false">42534200-1fce-42d5-89a6-6d3143ded9bc</guid>
             <pubDate>Wed, 17 Feb 2016 01:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alltop - Top Lightroom News]]></title>
-            <description><![CDATA[<article><h1>Alltop - Top Lightroom News</h1><p>Adobe Lightroom news and headlines from around the web.</p></article>]]></description>
-            <link>http://lightroom.alltop.com/</link>
-            <guid isPermaLink="false">ad0f7a11-afe5-4fe1-a97d-26daede849f2</guid>
-            <pubDate>Wed, 17 Feb 2016 00:36:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
