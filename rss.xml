@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 06:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 00:01:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -12,6 +12,13 @@
             <link>http://emo75.500px.com/</link>
             <guid isPermaLink="false">292d544b-7ab7-4784-aace-f57bedc0c1ba</guid>
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scott Kelby's Photoshop Insider - Photoshop & Photography Techniques, News, Books, Reviews & More]]></title>
+            <description><![CDATA[<article><h1>Scott Kelby's Photoshop Insider - Photoshop & Photography Techniques, News, Books, Reviews & More</h1><p>Photoshop & Photography Techniques, News, Books, Reviews & More</p><img src="http://img.kelbymediagroup.com/scottkelby/wp-content/uploads/2016/02/nyc-1-800x450.jpg"></article>]]></description>
+            <link>http://scottkelby.com/#</link>
+            <guid isPermaLink="false">7f3a0f25-3252-4f54-af82-7d3b8a7a2dfb</guid>
+            <pubDate>Sun, 28 Feb 2016 23:59:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blog - Alien Skin Software]]></title>
@@ -68,13 +75,6 @@
             <link>http://scottkelby.com/cool-little-adobe-mobile-app-for-instagrammers-and-other-folks/</link>
             <guid isPermaLink="false">ab46b0fd-0b75-429a-a8cb-2c9fd6092bf3</guid>
             <pubDate>Wed, 17 Feb 2016 15:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Responsive web design in Adobe Muse]]></title>
-            <description><![CDATA[<article><h1>Responsive web design in Adobe Muse</h1><p>Responsive web design in Adobe Muse | Adobe Muse CC tutorials http://flip.it/-zmVg</p></article>]]></description>
-            <link>http://flip.it/-zmVg</link>
-            <guid isPermaLink="false">42534200-1fce-42d5-89a6-6d3143ded9bc</guid>
-            <pubDate>Wed, 17 Feb 2016 01:28:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
