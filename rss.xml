@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 00:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 14:38:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[iPhoneography: How to Make a Movie with Your Phone | Create]]></title>
+            <description><![CDATA[<article><h1>iPhoneography: How to Make a Movie with Your Phone | Create</h1><p>Learn about phone add-ons and techniques, and check out some amazing short videos shot on phones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e104ee7cd1a5784f6b1fdd1b54f7982e28c7936.jpg"></article>]]></description>
+            <link>http://create.adobe.com/2016/2/26/iphoneography_how_to_make_a_movie_with_your_phone_.html?scid=social58762986&amp;adbid=704047196199481344&amp;adbpl=tw&amp;adbpr=481598648</link>
+            <guid isPermaLink="false">fc501d2d-5622-456a-a8fc-2d1e64410551</guid>
+            <pubDate>Mon, 29 Feb 2016 14:37:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scott Kelby's Photoshop Insider - Photoshop & Photography Techniques, News, Books, Reviews & More]]></title>
-            <description><![CDATA[<article><h1>Scott Kelby's Photoshop Insider - Photoshop & Photography Techniques, News, Books, Reviews & More</h1><p>Photoshop & Photography Techniques, News, Books, Reviews & More</p><img src="http://img.kelbymediagroup.com/scottkelby/wp-content/uploads/2016/02/nyc-1-800x450.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Scott Kelby's Photoshop Insider - Photoshop & Photography Techniques, News, Books, Reviews & More</h1><p>Photoshop & Photography Techniques, News, Books, Reviews & More</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12f1e0de6c789c7343029c90960b4af7ac0cd7aa.jpg"></article>]]></description>
             <link>http://scottkelby.com/#</link>
             <guid isPermaLink="false">7f3a0f25-3252-4f54-af82-7d3b8a7a2dfb</guid>
             <pubDate>Sun, 28 Feb 2016 23:59:17 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://scottkelby.com/#</link>
             <guid isPermaLink="false">fe30609d-eebe-4a5b-91d9-f140392d632b</guid>
             <pubDate>Wed, 17 Feb 2016 15:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cool Adobe Mobile App Creates Custom Graphics for Instagrammers (and everybody else on social )]]></title>
-            <description><![CDATA[<article><h1>Cool Adobe Mobile App Creates Custom Graphics for Instagrammers (and everybody else on social )</h1><p>OK, it's not technically for just Instagrammers, and there's nothing in the app that says it's for using with Instagram, but it's so perfect for Instagram, I can't believe Adobe wasn't thinking that way from the start (even if they didn't say it).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f1d8849df000eb9f6ec3e0d2f9c0a4b469338a8.jpg"></article>]]></description>
-            <link>http://scottkelby.com/cool-little-adobe-mobile-app-for-instagrammers-and-other-folks/</link>
-            <guid isPermaLink="false">ab46b0fd-0b75-429a-a8cb-2c9fd6092bf3</guid>
-            <pubDate>Wed, 17 Feb 2016 15:50:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
