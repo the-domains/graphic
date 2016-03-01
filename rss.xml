@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 14:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 02:27:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -12,6 +12,13 @@
             <link>http://emo75.500px.com/</link>
             <guid isPermaLink="false">292d544b-7ab7-4784-aace-f57bedc0c1ba</guid>
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portraits | felixkunze.com]]></title>
+            <description><![CDATA[<article><h1>Portraits | felixkunze.com</h1><img src="http://felixkunze.com/wordpress/wp-content/uploads/2012/10/04-_FKP0694-final-150x150.jpg"></article>]]></description>
+            <link>http://felixkunze.com/gallery/portraits/</link>
+            <guid isPermaLink="false">792c4dce-3482-46d7-bad0-fda48e7cdd2a</guid>
+            <pubDate>Tue, 01 Mar 2016 02:22:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[iPhoneography: How to Make a Movie with Your Phone | Create]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.zhangjingna.com/</link>
             <guid isPermaLink="false">185a2d39-f577-4003-a09a-6b52e04aabd1</guid>
             <pubDate>Thu, 18 Feb 2016 03:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scott Kelby's Photoshop Insider - Photoshop & Photography Techniques, News, Books, Reviews & More]]></title>
-            <description><![CDATA[<article><h1>Scott Kelby's Photoshop Insider - Photoshop & Photography Techniques, News, Books, Reviews & More</h1><p>http://youtu.be/Tbubwyu1zIA A few weeks ago we had super-mega popular concert and music photographer Adam Elmakias as our in-studio guest on "The Grid " (and he was a great guest - lots of fun, and amazing images).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efcfd62fad48ccb87ab5d88a2bff87c0c54b3483.jpg"></article>]]></description>
-            <link>http://scottkelby.com/#</link>
-            <guid isPermaLink="false">fe30609d-eebe-4a5b-91d9-f140392d632b</guid>
-            <pubDate>Wed, 17 Feb 2016 15:53:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
