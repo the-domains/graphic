@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 02:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 03:08:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[TESSELLATE]]></title>
+            <description><![CDATA[<article><h1>TESSELLATE</h1><p>photo: Artur Madejmodel: Kinga Trojan / D'visionstylist: Ewa Michalikmake up: Vika Mayhair: Patryk Nadolnyfashion designers: jarosław ewert, Golden Dust, Verityhunt, Her Curiosity, Room 669, Mitas design, Godsavequeens</p></article>]]></description>
+            <link>https://www.behance.net/gallery/34581893/TESSELLATE?utm_medium=email&amp;utm_source=transactional&amp;utm_campaign=project-published&amp;</link>
+            <guid isPermaLink="false">201f5921-98cb-4364-b968-60e34a43b68d</guid>
+            <pubDate>Wed, 02 Mar 2016 03:07:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Portraits | felixkunze.com]]></title>
-            <description><![CDATA[<article><h1>Portraits | felixkunze.com</h1><img src="http://felixkunze.com/wordpress/wp-content/uploads/2012/10/04-_FKP0694-final-150x150.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Portraits | felixkunze.com</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b45979833a0423124e21f30c5a8b19502ced9a3b.jpg"></article>]]></description>
             <link>http://felixkunze.com/gallery/portraits/</link>
             <guid isPermaLink="false">792c4dce-3482-46d7-bad0-fda48e7cdd2a</guid>
             <pubDate>Tue, 01 Mar 2016 02:22:24 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.lartcommeunique.fr/</link>
             <guid isPermaLink="false">47c17285-0c19-4c80-8ddf-c5254a8705f8</guid>
             <pubDate>Thu, 18 Feb 2016 04:06:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fine Art · Beauty · Underwater · Fashion Photographer NYC, New York]]></title>
-            <description><![CDATA[<article><h1>Fine Art · Beauty · Underwater · Fashion Photographer NYC, New York</h1><p>Zhang Jingna Art + Photography · Fine Art · Beauty · Underwater · Fashion Photographer NYC, New York</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df36499b4f4a7c11730a05824fe9efc70fb45634.jpg"></article>]]></description>
-            <link>http://www.zhangjingna.com/</link>
-            <guid isPermaLink="false">185a2d39-f577-4003-a09a-6b52e04aabd1</guid>
-            <pubDate>Thu, 18 Feb 2016 03:50:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
