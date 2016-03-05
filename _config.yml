@@ -1,16 +1,16 @@
 title: All About it...
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
 layout_spectrum: 0.6864831
 favicon: null
 name: 'Graphic '
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,9 +29,9 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.7328289
-  lightness: 0.6564456
+  lightness: 0.4645869
   saturation: 0.5738423
-  rhythmicContrast: 0.7102628
+  rhythmicContrast: 0.3937605
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
