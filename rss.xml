@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 07:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 22:46:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Beauty-Landscape Mix]]></title>
+            <description><![CDATA[<article><h1>Beauty-Landscape Mix</h1><p>Watch this video! #MadeWithClip</p><img src="http://www.ccv.adobe.com/v1/player/FoJXmy48mv7/posterframe?s=1457839676305"></article>]]></description>
+            <link>http://premiereclip.adobe.com/videos/FoJXmy48mv7</link>
+            <guid isPermaLink="false">07e64bf7-4368-485c-bb36-1bcbc7a922e9</guid>
+            <pubDate>Sun, 13 Mar 2016 22:44:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Organizing in Exposure X Video - Alien Skin Software]]></title>
-            <description><![CDATA[<article><h1>Organizing in Exposure X Video - Alien Skin Software</h1><p>has a bunch of new tools for organizing your images. You can assign flags, star ratings, and color labels to photos so you can easily find them later. These features are really powerful when they're used together, so we made this video tutorial to show you the ropes.</p><img src="http://www.alienskin.com/site/wp-content/uploads/2015/11/ExposureX-Darkroux-web.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Organizing in Exposure X Video - Alien Skin Software</h1><p>has a bunch of new tools for organizing your images. You can assign flags, star ratings, and color labels to photos so you can easily find them later. These features are really powerful when they're used together, so we made this video tutorial to show you the ropes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22d9e9f7567766024f4edeaa6a2948ba7e952e8e.jpg"></article>]]></description>
             <link>http://www.alienskin.com/blog/2016/organizing-in-exposure-x-video/</link>
             <guid isPermaLink="false">5f50d3a7-274b-45ef-b81e-0022105eaa89</guid>
             <pubDate>Sun, 13 Mar 2016 07:46:42 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://create.adobe.com/2016/2/26/iphoneography_how_to_make_a_movie_with_your_phone_.html?scid=social58762986&amp;adbid=704047196199481344&amp;adbpl=tw&amp;adbpr=481598648</link>
             <guid isPermaLink="false">fc501d2d-5622-456a-a8fc-2d1e64410551</guid>
             <pubDate>Mon, 29 Feb 2016 14:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scott Kelby's Photoshop Insider - Photoshop & Photography Techniques, News, Books, Reviews & More]]></title>
-            <description><![CDATA[<article><h1>Scott Kelby's Photoshop Insider - Photoshop & Photography Techniques, News, Books, Reviews & More</h1><p>Photoshop & Photography Techniques, News, Books, Reviews & More</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12f1e0de6c789c7343029c90960b4af7ac0cd7aa.jpg"></article>]]></description>
-            <link>http://scottkelby.com/#</link>
-            <guid isPermaLink="false">7f3a0f25-3252-4f54-af82-7d3b8a7a2dfb</guid>
-            <pubDate>Sun, 28 Feb 2016 23:59:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
