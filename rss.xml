@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 22:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 07:48:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Organizing in Exposure X Video - Alien Skin Software]]></title>
+            <description><![CDATA[<article><h1>Organizing in Exposure X Video - Alien Skin Software</h1><p>has a bunch of new tools for organizing your images. You can assign flags, star ratings, and color labels to photos so you can easily find them later. These features are really powerful when they're used together, so we made this video tutorial to show you the ropes.</p><img src="http://www.alienskin.com/site/wp-content/uploads/2015/11/ExposureX-Darkroux-web.jpg"></article>]]></description>
+            <link>http://www.alienskin.com/blog/2016/organizing-in-exposure-x-video/</link>
+            <guid isPermaLink="false">5f50d3a7-274b-45ef-b81e-0022105eaa89</guid>
+            <pubDate>Sun, 13 Mar 2016 07:46:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Exposure with Dark Roux - Alien Skin Software]]></title>
-            <description><![CDATA[<article><h1>Why Exposure with Dark Roux - Alien Skin Software</h1><p>If you're setting a wedding date in New Orleans, will be on your A+ list of photographers to consider. They're a dynamic team based in Louisiana. Since you last heard from them, they've been burning the midnight oil, keeping consistent, and pouring all of their efforts into taking great photos for their clients.</p><img src="http://www.alienskin.com/site/wp-content/uploads/2016/03/alien-skin-darkroux-why-exposure-07.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Why Exposure with Dark Roux - Alien Skin Software</h1><p>If you're setting a wedding date in New Orleans, will be on your A+ list of photographers to consider. They're a dynamic team based in Louisiana. Since you last heard from them, they've been burning the midnight oil, keeping consistent, and pouring all of their efforts into taking great photos for their clients.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba26d11c6bc7e6034388743cafc3cd01c325cc24.jpg"></article>]]></description>
             <link>http://www.alienskin.com/blog/2016/why-exposure-with-dark-roux/</link>
             <guid isPermaLink="false">b47483d4-1568-4302-87a2-72009dc25aa4</guid>
             <pubDate>Thu, 10 Mar 2016 22:49:55 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://scottkelby.com/#</link>
             <guid isPermaLink="false">7f3a0f25-3252-4f54-af82-7d3b8a7a2dfb</guid>
             <pubDate>Sun, 28 Feb 2016 23:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blog - Alien Skin Software]]></title>
-            <description><![CDATA[<article><h1>Blog - Alien Skin Software</h1><p>Watch this tutorial and learn how to use the bokeh features in Exposure X. This instructional video contains all you need to know to blur like a pro.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b9084fed864b240de66bbfe7d6b2b15f293b61e.png"></article>]]></description>
-            <link>http://www.alienskin.com/blog/</link>
-            <guid isPermaLink="false">4ffd8efe-0647-4901-8512-7e9b267b4fe2</guid>
-            <pubDate>Fri, 19 Feb 2016 06:32:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
