@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 19:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 02:40:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Blog - Alien Skin Software]]></title>
+            <description><![CDATA[<article><h1>Blog - Alien Skin Software</h1><p>Renowned Texas-based fashion and editorial photographer, Jay Marroquin talks about shooting in his industry and how important Exposure is to help make his editing magic happen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b9084fed864b240de66bbfe7d6b2b15f293b61e.png"></article>]]></description>
+            <link>http://www.alienskin.com/blog/</link>
+            <guid isPermaLink="false">32b0e3f2-dba7-43f9-825e-9358fce1a2af</guid>
+            <pubDate>Fri, 08 Apr 2016 02:40:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Interview with Tom Krcha, Adobe XD]]></title>
-            <description><![CDATA[<article><h1>Interview with Tom Krcha, Adobe XD</h1><p>A few weeks ago Adobe released the first public preview of what the company is now calling Adobe XD, its major new UX/UI design and prototyping tool-you can download it here. This early version is missing several key features, and a long road to the full 1.0 launch lays ahead.</p><img src="https://www.subtraction.com/wp-content/uploads/2016/03/2016-03-30-adobe-xd.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Interview with Tom Krcha, Adobe XD</h1><p>A few weeks ago Adobe released the first public preview of what the company is now calling Adobe XD, its major new UX/UI design and prototyping tool-you can download it here. This early version is missing several key features, and a long road to the full 1.0 launch lays ahead.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d922a89272d0746119fb565c348124e5676eec76.png"></article>]]></description>
             <link>https://www.subtraction.com/2016/03/30/interview-with-tom-krcha-adobe-xd/</link>
             <guid isPermaLink="false">6dfdf063-f15a-45e5-8a17-fef7d3f1c4aa</guid>
             <pubDate>Thu, 31 Mar 2016 19:43:33 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://plus.google.com/+MauroGiammarini/posts/dWy4Le91hNY?_utm_source=1-2-4</link>
             <guid isPermaLink="false">93881d20-190e-4e8d-a8ff-32ad2da8f9e4</guid>
             <pubDate>Fri, 04 Mar 2016 21:29:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TESSELLATE]]></title>
-            <description><![CDATA[<article><h1>TESSELLATE</h1><p>photo: Artur Madejmodel: Kinga Trojan / D'visionstylist: Ewa Michalikmake up: Vika Mayhair: Patryk Nadolnyfashion designers: jarosław ewert, Golden Dust, Verityhunt, Her Curiosity, Room 669, Mitas design, Godsavequeens</p></article>]]></description>
-            <link>https://www.behance.net/gallery/34581893/TESSELLATE?utm_medium=email&amp;utm_source=transactional&amp;utm_campaign=project-published&amp;</link>
-            <guid isPermaLink="false">201f5921-98cb-4364-b968-60e34a43b68d</guid>
-            <pubDate>Wed, 02 Mar 2016 03:07:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
