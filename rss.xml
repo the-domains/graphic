@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 02:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 02:48:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -12,6 +12,13 @@
             <link>http://emo75.500px.com/</link>
             <guid isPermaLink="false">292d544b-7ab7-4784-aace-f57bedc0c1ba</guid>
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chris Corradino - Alien Skin Software]]></title>
+            <description><![CDATA[<article><h1>Chris Corradino - Alien Skin Software</h1><p>Chris Corradino is a travel photographer and teacher based out of New York. His work has been highly circulated in publications such as the Associated Press, USA Today, National Geographic, and Wall Street Journal. He's deeply committed to providing a high-quality photography education through his dynamic teaching methods.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b9084fed864b240de66bbfe7d6b2b15f293b61e.png"></article>]]></description>
+            <link>http://www.alienskin.com/blog/author/chris-corradino/</link>
+            <guid isPermaLink="false">139e91ad-84a8-4c1a-9169-e5b3799f0b56</guid>
+            <pubDate>Fri, 08 Apr 2016 02:47:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Versatility of Exposure X - Alien Skin Software]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/graphic/ef663797-4f45-4c6a-932c-4a5287d1594e/index.html</link>
             <guid isPermaLink="false">ef663797-4f45-4c6a-932c-4a5287d1594e</guid>
             <pubDate>Sat, 05 Mar 2016 19:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's rebooted! ON1 Inspiration with Brian Matiash]]></title>
-            <description><![CDATA[<article><h1>It's rebooted! ON1 Inspiration with Brian Matiash</h1><p>It's crazy to think that we're approaching four years since I first launched ON1 Perfect Inspiration . Each week, we published a new episode with the goals of expanding your creative reach and helping you get the most out of your photography using ON1's suite of editing software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42bc86cb370a7f06d5f267be41cbf11aa128e2ec.jpg"></article>]]></description>
-            <link>https://www.on1.com/announcing-on1-inspiration-with-brian-matiash/?utm_campaign=Engage_2016-03-04&amp;utm_source=PlusOwn&amp;utm_medium=email</link>
-            <guid isPermaLink="false">dd3c22a1-ce9a-4e32-814b-f632a6fcfeaf</guid>
-            <pubDate>Fri, 04 Mar 2016 21:43:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
