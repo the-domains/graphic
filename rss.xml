@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 02:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 00:49:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nikki Harrison's Artistic Film Looks - Alien Skin Software]]></title>
+            <description><![CDATA[<article><h1>Nikki Harrison's Artistic Film Looks - Alien Skin Software</h1><p>Canadian ethereal portrait photographer Nikki Harrison is, above all, an artist. She has an amazing talent with the camera and with retouching, which gives her work a gorgeous, unique style. One of her go-to tools for creating stunning images is Exposure.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d9d591b46d0ace936cdf41d13301a755/noop.jpg?input=http%3A%2F%2Fwww.alienskin.com%2Fsite%2Fwp-content%2Fuploads%2F2016%2F08%2FNikki-Harrison-Film-looks-FB.jpg"></article>]]></description>
+            <link>http://www.alienskin.com/blog/2016/nikki-harrisons-artistic-film-looks/</link>
+            <guid isPermaLink="false">869b0474-f23b-4fdc-8575-d90c5aaf42c5</guid>
+            <pubDate>Wed, 10 Aug 2016 00:49:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chris Corradino - Alien Skin Software]]></title>
-            <description><![CDATA[<article><h1>Chris Corradino - Alien Skin Software</h1><p>Chris Corradino is a travel photographer and teacher based out of New York. His work has been highly circulated in publications such as the Associated Press, USA Today, National Geographic, and Wall Street Journal. He's deeply committed to providing a high-quality photography education through his dynamic teaching methods.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b9084fed864b240de66bbfe7d6b2b15f293b61e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Chris Corradino - Alien Skin Software</h1><p>Chris Corradino is a travel photographer and teacher based out of New York. His work has been highly circulated in publications such as the Associated Press, USA Today, National Geographic, and Wall Street Journal. He's deeply committed to providing a high-quality photography education through his dynamic teaching methods.</p></article>]]></description>
             <link>http://www.alienskin.com/blog/author/chris-corradino/</link>
             <guid isPermaLink="false">139e91ad-84a8-4c1a-9169-e5b3799f0b56</guid>
             <pubDate>Fri, 08 Apr 2016 02:47:42 GMT</pubDate>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Blog - Alien Skin Software]]></title>
-            <description><![CDATA[<article><h1>Blog - Alien Skin Software</h1><p>Renowned Texas-based fashion and editorial photographer, Jay Marroquin talks about shooting in his industry and how important Exposure is to help make his editing magic happen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b9084fed864b240de66bbfe7d6b2b15f293b61e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Blog - Alien Skin Software</h1><p>Renowned Texas-based fashion and editorial photographer, Jay Marroquin talks about shooting in his industry and how important Exposure is to help make his editing magic happen.</p></article>]]></description>
             <link>http://www.alienskin.com/blog/</link>
             <guid isPermaLink="false">32b0e3f2-dba7-43f9-825e-9358fce1a2af</guid>
             <pubDate>Fri, 08 Apr 2016 02:40:42 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.alienskin.com/blog/2016/why-exposure-with-dark-roux/</link>
             <guid isPermaLink="false">b47483d4-1568-4302-87a2-72009dc25aa4</guid>
             <pubDate>Thu, 10 Mar 2016 22:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b6f2ca2-c358-45ec-a9c0-70dff47dc90b.png">]]></description>
-            <link>https://thegrid.ai/graphic/ef663797-4f45-4c6a-932c-4a5287d1594e/index.html</link>
-            <guid isPermaLink="false">ef663797-4f45-4c6a-932c-4a5287d1594e</guid>
-            <pubDate>Sat, 05 Mar 2016 19:41:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
