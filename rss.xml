@@ -4,7 +4,7 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 00:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 17:30:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
@@ -12,6 +12,13 @@
             <link>http://emo75.500px.com/</link>
             <guid isPermaLink="false">292d544b-7ab7-4784-aace-f57bedc0c1ba</guid>
             <pubDate>Wed, 17 Feb 2016 00:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exposure X Painterly Effect - Alien Skin Software]]></title>
+            <description><![CDATA[<article><h1>Exposure X Painterly Effect - Alien Skin Software</h1><p>In the majority of my portrait work, I use Exposure for a finishing application to really give images a touch of editing magic. I often go with a subtle painterly effect, and Exposure is great for achieving it. I use Exposure as a Photoshop plug-in most of the time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea5636d5d0842a1516cea1aa37b89f93/noop.jpg?input=http%3A%2F%2Fwww.alienskin.com%2Fsite%2Fwp-content%2Fuploads%2F2016%2F08%2FTrisha-Hadley-painterly-effect-1A.jpg"></article>]]></description>
+            <link>http://www.alienskin.com/blog/2016/exposure-x-painterly-effect/</link>
+            <guid isPermaLink="false">93494b4f-4896-43f8-ad73-0bcdf2c001ab</guid>
+            <pubDate>Fri, 19 Aug 2016 17:30:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nikki Harrison's Artistic Film Looks - Alien Skin Software]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.alienskin.com/blog/2016/organizing-in-exposure-x-video/</link>
             <guid isPermaLink="false">5f50d3a7-274b-45ef-b81e-0022105eaa89</guid>
             <pubDate>Sun, 13 Mar 2016 07:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Exposure with Dark Roux - Alien Skin Software]]></title>
-            <description><![CDATA[<article><h1>Why Exposure with Dark Roux - Alien Skin Software</h1><p>If you're setting a wedding date in New Orleans, will be on your A+ list of photographers to consider. They're a dynamic team based in Louisiana. Since you last heard from them, they've been burning the midnight oil, keeping consistent, and pouring all of their efforts into taking great photos for their clients.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba26d11c6bc7e6034388743cafc3cd01c325cc24.jpg"></article>]]></description>
-            <link>http://www.alienskin.com/blog/2016/why-exposure-with-dark-roux/</link>
-            <guid isPermaLink="false">b47483d4-1568-4302-87a2-72009dc25aa4</guid>
-            <pubDate>Thu, 10 Mar 2016 22:49:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
