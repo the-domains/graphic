@@ -4,8 +4,15 @@
         <description><![CDATA[All About it...]]></description>
         <link>https://thegrid.ai/graphic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 17:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 17:31:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/graphic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Adapting your photography workflow with a versatile photo editor]]></title>
+            <description><![CDATA[<article><h1>Adapting your photography workflow with a versatile photo editor</h1><p>Gagan Dhiman is a wedding and Army photographer based out of Roseville, California. His experience as an Army photographer while on deployments to places like Afghanistan gives him a unique perspective on adapting his approach to different shoots. Here, he describes his approach, and how he uses Exposure as a versatile photo editor to handle these two styles.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8d70d1e565fd98f65cb669dc388c5824/noop.jpg?input=http%3A%2F%2Fwww.alienskin.com%2Fsite%2Fwp-content%2Fuploads%2F2016%2F08%2F10842328_1020927174600486_8162154520922571325_oCROP.jpg"></article>]]></description>
+            <link>http://www.alienskin.com/blog/2016/adapting-your-photography-workflow-gagan-dhiman/</link>
+            <guid isPermaLink="false">b99dc789-4de3-4afa-a270-569ebea0e791</guid>
+            <pubDate>Fri, 19 Aug 2016 17:30:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Edouard Montfort]]></title>
             <description><![CDATA[<article><h1>Edouard Montfort</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b49eadd3c2a8391a07079b24dd25ce33e0e9874.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://premiereclip.adobe.com/videos/FoJXmy48mv7</link>
             <guid isPermaLink="false">07e64bf7-4368-485c-bb36-1bcbc7a922e9</guid>
             <pubDate>Sun, 13 Mar 2016 22:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Organizing in Exposure X Video - Alien Skin Software]]></title>
-            <description><![CDATA[<article><h1>Organizing in Exposure X Video - Alien Skin Software</h1><p>has a bunch of new tools for organizing your images. You can assign flags, star ratings, and color labels to photos so you can easily find them later. These features are really powerful when they're used together, so we made this video tutorial to show you the ropes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22d9e9f7567766024f4edeaa6a2948ba7e952e8e.jpg"></article>]]></description>
-            <link>http://www.alienskin.com/blog/2016/organizing-in-exposure-x-video/</link>
-            <guid isPermaLink="false">5f50d3a7-274b-45ef-b81e-0022105eaa89</guid>
-            <pubDate>Sun, 13 Mar 2016 07:46:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
